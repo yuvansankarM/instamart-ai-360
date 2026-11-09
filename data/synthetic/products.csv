@@ -1,0 +1,81 @@
+product_id,product_name,category,price,stock_status
+PROD0001,Juice 1,Beverages,71.55,In Stock
+PROD0002,Chocolate 2,Snacks,78.55,Low Stock
+PROD0003,Tissue Paper 3,Household,413.51,In Stock
+PROD0004,Grapes 4,Fruits,41.2,In Stock
+PROD0005,Curd 5,Dairy,475.35,In Stock
+PROD0006,Tissue Paper 6,Household,101.76,Out of Stock
+PROD0007,Potato 7,Vegetables,256.96,Out of Stock
+PROD0008,Dishwash 8,Household,210.81,In Stock
+PROD0009,Chips 9,Snacks,174.12,In Stock
+PROD0010,Detergent 10,Household,435.75,In Stock
+PROD0011,Coffee 11,Beverages,216.16,In Stock
+PROD0012,Shampoo 12,Personal Care,464.85,Out of Stock
+PROD0013,Shampoo 13,Personal Care,178.05,In Stock
+PROD0014,Dishwash 14,Household,241.67,In Stock
+PROD0015,Onion 15,Vegetables,173.94,In Stock
+PROD0016,Curd 16,Dairy,65.43,In Stock
+PROD0017,Chocolate 17,Snacks,206.77,In Stock
+PROD0018,Shampoo 18,Personal Care,382.66,In Stock
+PROD0019,Popcorn 19,Snacks,465.2,In Stock
+PROD0020,Butter 20,Dairy,45.24,Out of Stock
+PROD0021,Shampoo 21,Personal Care,463.47,In Stock
+PROD0022,Detergent 22,Household,38.5,In Stock
+PROD0023,Dishwash 23,Household,32.74,In Stock
+PROD0024,Grapes 24,Fruits,258.28,In Stock
+PROD0025,Chips 25,Snacks,397.59,In Stock
+PROD0026,Tissue Paper 26,Household,199.07,In Stock
+PROD0027,Curd 27,Dairy,97.08,Low Stock
+PROD0028,Banana 28,Fruits,277.51,Out of Stock
+PROD0029,Cheese 29,Dairy,430.71,In Stock
+PROD0030,Dishwash 30,Household,441.51,In Stock
+PROD0031,Milk 31,Dairy,409.26,In Stock
+PROD0032,Orange 32,Fruits,491.43,In Stock
+PROD0033,Dishwash 33,Household,197.59,In Stock
+PROD0034,Milk 34,Dairy,401.48,Low Stock
+PROD0035,Curd 35,Dairy,165.82,Low Stock
+PROD0036,Milk 36,Dairy,269.82,In Stock
+PROD0037,Chocolate 37,Snacks,98.43,In Stock
+PROD0038,Curd 38,Dairy,316.98,In Stock
+PROD0039,Coffee 39,Beverages,270.68,In Stock
+PROD0040,Chips 40,Snacks,110.47,In Stock
+PROD0041,Apple 41,Fruits,474.71,In Stock
+PROD0042,Grapes 42,Fruits,487.72,In Stock
+PROD0043,Tea 43,Beverages,438.28,In Stock
+PROD0044,Potato 44,Vegetables,226.92,In Stock
+PROD0045,Orange 45,Fruits,496.9,Out of Stock
+PROD0046,Juice 46,Beverages,358.78,In Stock
+PROD0047,Popcorn 47,Snacks,41.66,Out of Stock
+PROD0048,Toothpaste 48,Personal Care,76.4,In Stock
+PROD0049,Cheese 49,Dairy,94.76,In Stock
+PROD0050,Cheese 50,Dairy,292.38,In Stock
+PROD0051,Shampoo 51,Personal Care,50.3,Out of Stock
+PROD0052,Potato 52,Vegetables,110.89,In Stock
+PROD0053,Grapes 53,Fruits,65.26,Low Stock
+PROD0054,Butter 54,Dairy,418.41,Out of Stock
+PROD0055,Soft Drink 55,Beverages,472.82,In Stock
+PROD0056,Tissue Paper 56,Household,281.92,In Stock
+PROD0057,Tissue Paper 57,Household,486.47,In Stock
+PROD0058,Shampoo 58,Personal Care,239.07,In Stock
+PROD0059,Banana 59,Fruits,207.92,In Stock
+PROD0060,Soap 60,Personal Care,394.34,In Stock
+PROD0061,Grapes 61,Fruits,313.87,In Stock
+PROD0062,Tomato 62,Vegetables,118.79,Out of Stock
+PROD0063,Soap 63,Personal Care,267.56,Out of Stock
+PROD0064,Tissue Paper 64,Household,133.45,In Stock
+PROD0065,Tomato 65,Vegetables,50.4,In Stock
+PROD0066,Orange 66,Fruits,457.98,In Stock
+PROD0067,Tea 67,Beverages,116.9,Low Stock
+PROD0068,Dishwash 68,Household,434.79,Out of Stock
+PROD0069,Curd 69,Dairy,63.48,In Stock
+PROD0070,Potato 70,Vegetables,473.93,In Stock
+PROD0071,Carrot 71,Vegetables,279.43,In Stock
+PROD0072,Coffee 72,Beverages,333.53,In Stock
+PROD0073,Banana 73,Fruits,129.75,In Stock
+PROD0074,Detergent 74,Household,469.6,In Stock
+PROD0075,Soap 75,Personal Care,258.87,In Stock
+PROD0076,Butter 76,Dairy,229.6,Out of Stock
+PROD0077,Curd 77,Dairy,249.41,In Stock
+PROD0078,Detergent 78,Household,304.62,In Stock
+PROD0079,Shampoo 79,Personal Care,44.4,Out of Stock
+PROD0080,Curd 80,Dairy,450.44,In Stock

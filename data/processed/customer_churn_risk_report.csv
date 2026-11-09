@@ -1,0 +1,101 @@
+customer_id,recency,frequency,monetary,delayed_orders,cancelled_orders,churn_probability,risk_level,recommended_action
+CUST0493,999.0,0.0,0.0,0.0,1.0,0.9810937313377984,High,Send personalised re-engagement offer
+CUST0283,999.0,0.0,0.0,0.0,1.0,0.9810937313377984,High,Send personalised re-engagement offer
+CUST0284,35.0,1.0,2072.25,0.0,0.0,0.925,High,Send personalised re-engagement offer
+CUST0500,32.0,1.0,3145.56,0.0,0.0,0.875,High,Send personalised re-engagement offer
+CUST0298,65.0,1.0,637.62,0.0,0.0,0.875,High,Send personalised re-engagement offer
+CUST0081,24.0,1.0,1783.08,0.0,0.0,0.845,High,Prioritise customer support follow-up
+CUST0188,84.0,1.0,1557.0,0.0,0.0,0.845,High,Send personalised re-engagement offer
+CUST0273,64.0,1.0,539.64,0.0,0.0,0.845,High,Send personalised re-engagement offer
+CUST0499,54.0,1.0,1843.52,1.0,0.0,0.8401021772345301,High,Investigate delivery issues and offer support
+CUST0435,51.0,2.0,2626.65,0.0,0.0,0.835,High,Send personalised re-engagement offer
+CUST0401,48.0,2.0,3191.18,0.0,0.0,0.81,High,Send personalised re-engagement offer
+CUST0218,23.0,1.0,4775.85,0.0,0.0,0.765,High,Prioritise customer support follow-up
+CUST0425,20.0,1.0,1864.33,0.0,0.0,0.765,High,Prioritise customer support follow-up
+CUST0121,1.0,1.0,1610.32,0.0,0.0,0.76,High,Prioritise customer support follow-up
+CUST0462,17.0,1.0,2132.82,0.0,0.0,0.74,High,Prioritise customer support follow-up
+CUST0486,25.0,1.0,3042.15,0.0,0.0,0.74,High,Prioritise customer support follow-up
+CUST0182,36.0,1.0,1322.39,0.0,0.0,0.74,High,Send personalised re-engagement offer
+CUST0415,79.0,1.0,840.78,0.0,0.0,0.73,High,Send personalised re-engagement offer
+CUST0097,29.0,3.0,3266.32,0.0,1.0,0.73,High,Prioritise customer support follow-up
+CUST0130,28.0,1.0,2385.32,0.0,0.0,0.715,High,Prioritise customer support follow-up
+CUST0299,31.0,1.0,382.66,0.0,0.0,0.695,Medium,Send personalised product recommendations
+CUST0487,32.0,1.0,4840.65,0.0,0.0,0.695,Medium,Send personalised product recommendations
+CUST0339,61.0,1.0,4538.62,1.0,0.0,0.685,Medium,Send personalised product recommendations
+CUST0381,12.0,2.0,4302.07,0.0,0.0,0.62,Medium,Send personalised product recommendations
+CUST0392,11.0,3.0,3315.64,0.0,0.0,0.62,Medium,Offer loyalty rewards
+CUST0350,87.0,1.0,2134.56,0.0,0.0,0.61,Medium,Send personalised product recommendations
+CUST0072,57.0,1.0,3908.1,1.0,1.0,0.605,Medium,Send personalised product recommendations
+CUST0469,26.0,2.0,3541.96,1.0,0.0,0.6,Medium,Send personalised product recommendations
+CUST0186,6.0,3.0,2239.69,0.0,0.0,0.595,Medium,Offer loyalty rewards
+CUST0476,16.0,1.0,2656.79,0.0,0.0,0.57,Medium,Send personalised product recommendations
+CUST0247,22.0,1.0,584.88,0.0,0.0,0.565,Medium,Send personalised product recommendations
+CUST0249,16.0,2.0,2713.8199999999997,2.0,1.0,0.555,Medium,Send personalised product recommendations
+CUST0228,26.0,4.0,4402.54,0.0,0.0,0.535,Medium,Offer loyalty rewards
+CUST0102,70.0,2.0,1863.83,0.0,0.0,0.53,Medium,Send personalised product recommendations
+CUST0481,22.0,1.0,413.51,0.0,0.0,0.525,Medium,Send personalised product recommendations
+CUST0100,6.0,3.0,3379.04,1.0,1.0,0.525,Medium,Offer loyalty rewards
+CUST0276,5.0,3.0,8162.02,2.0,1.0,0.52,Medium,Offer loyalty rewards
+CUST0145,31.0,1.0,366.65,0.0,0.0,0.515,Medium,Send personalised product recommendations
+CUST0203,37.0,1.0,83.32,0.0,0.0,0.515,Medium,Send personalised product recommendations
+CUST0420,31.0,1.0,2138.98,1.0,1.0,0.5,Medium,Send personalised product recommendations
+CUST0023,34.0,3.0,5178.46,0.0,0.0,0.495,Medium,Offer loyalty rewards
+CUST0221,28.0,1.0,1532.37,0.0,0.0,0.49,Medium,Send personalised product recommendations
+CUST0483,11.0,4.0,4867.179999999999,0.0,1.0,0.485,Medium,Offer loyalty rewards
+CUST0017,9.0,2.0,1858.76,1.0,0.0,0.465,Medium,Send personalised product recommendations
+CUST0118,58.0,2.0,2686.33,1.0,0.0,0.46,Medium,Send personalised product recommendations
+CUST0244,47.0,2.0,4246.54,0.0,0.0,0.46,Medium,Send personalised product recommendations
+CUST0457,60.0,1.0,1718.7,0.0,0.0,0.455,Medium,Send personalised product recommendations
+CUST0376,2.0,3.0,5406.65,1.0,0.0,0.455,Medium,Offer loyalty rewards
+CUST0096,0.0,3.0,4053.7000000000003,0.0,0.0,0.45,Medium,Offer loyalty rewards
+CUST0216,0.0,3.0,1322.4099999999999,0.0,0.0,0.45,Medium,Offer loyalty rewards
+CUST0301,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0393,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0411,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0170,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0371,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0277,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0214,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0003,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0257,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0305,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0279,999.0,0.0,0.0,0.0,0.0,0.4492582234984399,Medium,Send personalised product recommendations
+CUST0111,42.0,3.0,7044.66,0.0,0.0,0.445,Medium,Offer loyalty rewards
+CUST0372,15.0,4.0,4627.99,0.0,0.0,0.445,Medium,Offer loyalty rewards
+CUST0278,35.0,1.0,284.42,0.0,0.0,0.44,Medium,Send personalised product recommendations
+CUST0431,31.0,1.0,1386.54,1.0,0.0,0.435,Medium,Send personalised product recommendations
+CUST0159,83.0,1.0,1689.93,2.0,0.0,0.42564213564213565,Medium,Send personalised product recommendations
+CUST0035,21.0,1.0,473.93,0.0,0.0,0.425,Medium,Send personalised product recommendations
+CUST0150,51.0,1.0,2371.89,0.0,1.0,0.4,Medium,Send personalised product recommendations
+CUST0104,24.0,3.0,3521.11,0.0,0.0,0.385,Low,Maintain engagement with relevant offers
+CUST0195,34.0,2.0,3617.61,0.0,1.0,0.385,Low,Maintain engagement with relevant offers
+CUST0226,54.0,1.0,552.2,0.0,0.0,0.385,Low,Maintain engagement with relevant offers
+CUST0085,55.0,1.0,1890.42,0.0,1.0,0.365,Low,Maintain engagement with relevant offers
+CUST0334,4.0,2.0,4561.91,2.0,0.0,0.36,Low,Maintain engagement with relevant offers
+CUST0394,7.0,2.0,2345.71,0.0,0.0,0.36,Low,Maintain engagement with relevant offers
+CUST0310,70.0,1.0,32.74,0.0,0.0,0.350389189008937,Low,Maintain engagement with relevant offers
+CUST0263,3.0,5.0,7376.750000000001,0.0,1.0,0.35,Low,Maintain engagement with relevant offers
+CUST0429,33.0,3.0,7800.26,0.0,0.0,0.345,Low,Maintain engagement with relevant offers
+CUST0245,20.0,1.0,214.65,0.0,0.0,0.335,Low,Maintain engagement with relevant offers
+CUST0005,3.0,4.0,10872.85,0.0,0.0,0.335,Low,Maintain engagement with relevant offers
+CUST0115,27.0,4.0,6799.1900000000005,0.0,0.0,0.335,Low,Maintain engagement with relevant offers
+CUST0442,19.0,3.0,5776.43,0.0,0.0,0.33,Low,Maintain engagement with relevant offers
+CUST0412,34.0,5.0,4670.089999999999,0.0,0.0,0.33,Low,Maintain engagement with relevant offers
+CUST0011,6.0,6.0,7844.849999999999,0.0,0.0,0.33,Low,Maintain engagement with relevant offers
+CUST0430,26.0,5.0,8187.49,0.0,0.0,0.325,Low,Maintain engagement with relevant offers
+CUST0079,4.0,4.0,7164.23,0.0,0.0,0.325,Low,Maintain engagement with relevant offers
+CUST0215,20.0,2.0,4503.46,0.0,0.0,0.315,Low,Maintain engagement with relevant offers
+CUST0324,67.0,1.0,133.2,0.0,0.0,0.303,Low,Maintain engagement with relevant offers
+CUST0439,21.0,4.0,3493.45,0.0,0.0,0.29,Low,Maintain engagement with relevant offers
+CUST0328,2.0,2.0,1187.0600000000002,1.0,0.0,0.285,Low,Maintain engagement with relevant offers
+CUST0497,43.0,3.0,5333.55,0.0,0.0,0.275,Low,Maintain engagement with relevant offers
+CUST0337,8.0,3.0,3523.0099999999998,0.0,0.0,0.275,Low,Maintain engagement with relevant offers
+CUST0312,8.0,1.0,1002.06,0.0,1.0,0.275,Low,Maintain engagement with relevant offers
+CUST0227,7.0,5.0,8276.91,0.0,0.0,0.27,Low,Maintain engagement with relevant offers
+CUST0206,53.0,4.0,7566.35,0.0,1.0,0.255,Low,Maintain engagement with relevant offers
+CUST0155,3.0,5.0,9887.68,0.0,0.0,0.25,Low,Maintain engagement with relevant offers
+CUST0398,24.0,4.0,5636.67,1.0,0.0,0.25,Low,Maintain engagement with relevant offers
+CUST0454,53.0,1.0,693.43,1.0,0.0,0.24263636363636362,Low,Maintain engagement with relevant offers
+CUST0026,2.0,3.0,4025.96,1.0,0.0,0.2,Low,Maintain engagement with relevant offers
+CUST0038,0.0,1.0,168.46,0.0,0.0,0.165,Low,Maintain engagement with relevant offers
+CUST0359,28.0,1.0,233.8,0.0,0.0,0.15,Low,Maintain engagement with relevant offers

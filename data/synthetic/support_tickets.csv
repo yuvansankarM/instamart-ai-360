@@ -1,0 +1,601 @@
+ticket_id,customer_id,order_id,ticket_date,ticket_text,category,priority,sentiment,ticket_status
+TKT00001,CUST0306,ORD01232,2026-10-10 04:41:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00002,CUST0211,ORD00869,2026-10-03 11:56:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00003,CUST0233,ORD00937,2026-07-05 12:24:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00004,CUST0026,ORD00130,2026-10-19 11:19:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00005,CUST0348,ORD01430,2026-06-20 01:28:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00006,CUST0086,ORD00390,2026-11-09 00:00:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00007,CUST0431,ORD01777,2026-09-08 01:14:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00008,CUST0327,ORD01304,2026-05-21 05:41:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00009,CUST0391,ORD01593,2026-10-13 07:04:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00010,CUST0315,ORD01259,2026-06-24 00:11:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00011,CUST0428,ORD01764,2026-05-28 21:24:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00012,CUST0082,ORD00380,2026-06-04 21:51:00,Please help me update my account details.,Account,Low,Neutral,Open
+TKT00013,CUST0142,ORD00615,2026-09-22 08:58:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00014,CUST0256,ORD01043,2026-11-01 13:56:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00015,CUST0391,ORD01594,2026-09-01 17:29:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00016,CUST0490,ORD02001,2026-06-16 13:07:00,I need help with my payment.,Payment,Medium,Neutral,Open
+TKT00017,CUST0291,ORD01173,2026-10-05 05:21:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00018,CUST0165,ORD00698,2026-06-22 16:21:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00019,CUST0038,ORD00191,2026-11-03 06:55:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00020,CUST0062,ORD00282,2026-09-15 04:16:00,The item quality was poor.,Product Quality,Medium,Negative,In Progress
+TKT00021,CUST0236,ORD00954,2026-07-20 18:06:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00022,CUST0180,ORD00753,2026-10-31 06:06:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00023,CUST0174,ORD00727,2026-11-01 12:11:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00024,CUST0316,ORD01262,2026-08-21 23:39:00,Please help me update my account details.,Account,Low,Neutral,Open
+TKT00025,CUST0449,ORD01847,2026-09-20 14:54:00,Where is my order? It is delayed.,Delivery,High,Negative,Open
+TKT00026,CUST0312,ORD01245,2026-07-27 05:37:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00027,CUST0483,ORD01970,2026-09-19 16:08:00,The item quality was poor.,Product Quality,Medium,Negative,Open
+TKT00028,CUST0111,ORD00488,2026-05-23 18:21:00,I need help with my payment.,Payment,Medium,Neutral,In Progress
+TKT00029,CUST0342,ORD01396,2026-09-08 01:53:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00030,CUST0200,ORD00828,2026-06-21 11:16:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00031,CUST0064,ORD00298,2026-07-18 01:42:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00032,CUST0111,ORD00489,2026-09-02 13:39:00,Please help me update my account details.,Account,Low,Neutral,Open
+TKT00033,CUST0095,ORD00418,2026-10-09 17:58:00,The delivery experience was good.,Delivery,Low,Positive,Open
+TKT00034,CUST0046,ORD00217,2026-09-29 12:04:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00035,CUST0462,ORD01897,2026-09-27 22:18:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00036,CUST0305,ORD01225,2026-06-23 17:55:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00037,CUST0063,ORD00290,2026-09-29 09:51:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00038,CUST0337,ORD01365,2026-10-04 02:16:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00039,CUST0357,ORD01463,2026-09-16 00:50:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00040,CUST0300,ORD01211,2026-10-12 13:37:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00041,CUST0105,ORD00471,2026-09-11 12:25:00,Thank you for your support.,Account,Low,Positive,Open
+TKT00042,CUST0233,ORD00937,2026-07-08 12:24:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00043,CUST0156,ORD00663,2026-05-19 10:15:00,The product I received was damaged.,Product Quality,High,Negative,Open
+TKT00044,CUST0306,ORD01229,2026-07-11 08:25:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00045,CUST0026,ORD00132,2026-10-29 04:05:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00046,CUST0047,ORD00223,2026-08-16 17:05:00,I cannot log into my account.,Account,Medium,Negative,Open
+TKT00047,CUST0142,ORD00617,2026-11-09 00:00:00,I need help with my payment.,Payment,Medium,Neutral,Open
+TKT00048,CUST0403,ORD01653,2026-10-21 12:10:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00049,CUST0244,ORD00994,2026-07-17 18:35:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00050,CUST0483,ORD01968,2026-09-25 09:50:00,Please help me update my account details.,Account,Low,Neutral,Open
+TKT00051,CUST0106,ORD00477,2026-09-27 09:07:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00052,CUST0419,ORD01729,2026-07-03 13:32:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00053,CUST0254,ORD01036,2026-09-25 07:15:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00054,CUST0249,ORD01016,2026-08-22 06:42:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00055,CUST0307,ORD01234,2026-10-24 17:43:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00056,CUST0050,ORD00233,2026-10-08 14:08:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00057,CUST0010,ORD00052,2026-05-25 20:23:00,The product quality was excellent.,Product Quality,Low,Positive,In Progress
+TKT00058,CUST0029,ORD00152,2026-07-29 20:02:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00059,CUST0317,ORD01265,2026-06-01 01:19:00,I need help with my payment.,Payment,Medium,Neutral,Open
+TKT00060,CUST0496,ORD02026,2026-10-14 21:31:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00061,CUST0243,ORD00988,2026-09-12 23:57:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00062,CUST0049,ORD00231,2026-09-08 09:35:00,The product quality was excellent.,Product Quality,Low,Positive,In Progress
+TKT00063,CUST0359,ORD01474,2026-10-17 02:29:00,Where is my order? It is delayed.,Delivery,High,Negative,In Progress
+TKT00064,CUST0202,ORD00833,2026-09-24 07:55:00,Payment failed but money was deducted.,Payment,High,Negative,Open
+TKT00065,CUST0249,ORD01016,2026-08-23 06:42:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00066,CUST0338,ORD01369,2026-08-23 15:01:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00067,CUST0314,ORD01254,2026-09-04 03:57:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00068,CUST0342,ORD01400,2026-10-25 20:02:00,I have not received my refund.,Refund,High,Negative,In Progress
+TKT00069,CUST0355,ORD01455,2026-09-30 14:53:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00070,CUST0490,ORD02002,2026-09-13 22:07:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00071,CUST0480,ORD01963,2026-06-09 21:00:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00072,CUST0242,ORD00979,2026-07-12 21:42:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00073,CUST0492,ORD02006,2026-09-22 01:36:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00074,CUST0289,ORD01154,2026-09-16 14:57:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00075,CUST0077,ORD00359,2026-10-20 03:54:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00076,CUST0479,ORD01956,2026-10-05 01:26:00,I need help with my payment.,Payment,Medium,Neutral,Open
+TKT00077,CUST0036,ORD00183,2026-07-28 15:20:00,The item quality was poor.,Product Quality,Medium,Negative,Open
+TKT00078,CUST0333,ORD01346,2026-10-25 14:18:00,Payment failed but money was deducted.,Payment,High,Negative,Open
+TKT00079,CUST0078,ORD00362,2026-09-25 05:18:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00080,CUST0405,ORD01662,2026-09-09 06:59:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00081,CUST0036,ORD00184,2026-05-25 01:41:00,The product quality was excellent.,Product Quality,Low,Positive,In Progress
+TKT00082,CUST0054,ORD00248,2026-09-14 02:02:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00083,CUST0299,ORD01207,2026-06-21 12:59:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00084,CUST0327,ORD01304,2026-05-21 05:41:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00085,CUST0046,ORD00214,2026-10-19 16:46:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00086,CUST0013,ORD00065,2026-08-20 12:09:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00087,CUST0201,ORD00831,2026-10-17 13:40:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00088,CUST0329,ORD01316,2026-09-12 15:48:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00089,CUST0490,ORD02003,2026-09-06 18:01:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00090,CUST0428,ORD01764,2026-05-29 21:24:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00091,CUST0193,ORD00788,2026-08-30 11:59:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00092,CUST0241,ORD00976,2026-10-06 19:57:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00093,CUST0186,ORD00768,2026-10-13 13:59:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00094,CUST0124,ORD00545,2026-08-12 22:09:00,Thank you for your support.,Account,Low,Positive,Open
+TKT00095,CUST0457,ORD01881,2026-08-15 02:21:00,Please check my refund status.,Refund,Medium,Neutral,Open
+TKT00096,CUST0396,ORD01617,2026-08-17 15:33:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00097,CUST0104,ORD00463,2026-09-09 03:25:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00098,CUST0334,ORD01356,2026-06-26 05:38:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00099,CUST0032,ORD00157,2026-09-13 03:43:00,I need help with my payment.,Payment,Medium,Neutral,In Progress
+TKT00100,CUST0133,ORD00585,2026-05-21 21:43:00,Where is my order? It is delayed.,Delivery,High,Negative,In Progress
+TKT00101,CUST0414,ORD01711,2026-07-05 17:08:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00102,CUST0303,ORD01222,2026-10-03 04:11:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00103,CUST0168,ORD00712,2026-09-22 09:23:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00104,CUST0033,ORD00163,2026-06-10 06:16:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00105,CUST0228,ORD00923,2026-09-16 07:43:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00106,CUST0418,ORD01720,2026-06-24 09:12:00,I have not received my refund.,Refund,High,Negative,Open
+TKT00107,CUST0216,ORD00883,2026-10-14 07:37:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00108,CUST0069,ORD00322,2026-08-04 10:58:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00109,CUST0442,ORD01820,2026-05-22 04:04:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00110,CUST0240,ORD00970,2026-11-08 04:43:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00111,CUST0424,ORD01754,2026-07-22 18:05:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00112,CUST0142,ORD00615,2026-09-20 08:58:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00113,CUST0064,ORD00299,2026-06-25 13:35:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00114,CUST0157,ORD00667,2026-11-04 10:30:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00115,CUST0256,ORD01046,2026-09-28 17:12:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00116,CUST0128,ORD00568,2026-10-23 05:50:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00117,CUST0199,ORD00822,2026-10-05 09:08:00,My payment was deducted twice.,Payment,High,Negative,Open
+TKT00118,CUST0151,ORD00644,2026-09-03 07:24:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00119,CUST0315,ORD01256,2026-09-13 15:40:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00120,CUST0348,ORD01426,2026-06-10 13:46:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00121,CUST0161,ORD00685,2026-05-20 12:12:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00122,CUST0359,ORD01474,2026-10-20 02:29:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00123,CUST0161,ORD00685,2026-05-18 12:12:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00124,CUST0321,ORD01273,2026-10-05 01:29:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00125,CUST0128,ORD00570,2026-05-29 09:13:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00126,CUST0056,ORD00259,2026-10-12 04:53:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00127,CUST0206,ORD00843,2026-07-14 13:38:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00128,CUST0158,ORD00674,2026-10-18 01:06:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00129,CUST0122,ORD00542,2026-10-29 04:56:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00130,CUST0021,ORD00109,2026-10-22 06:21:00,Where is my order? It is delayed.,Delivery,High,Negative,In Progress
+TKT00131,CUST0352,ORD01439,2026-10-21 02:28:00,The product quality was excellent.,Product Quality,Low,Positive,In Progress
+TKT00132,CUST0465,ORD01903,2026-09-22 14:31:00,I need help with my payment.,Payment,Medium,Neutral,Open
+TKT00133,CUST0469,ORD01913,2026-09-11 19:29:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00134,CUST0195,ORD00794,2026-07-12 01:39:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00135,CUST0008,ORD00041,2026-05-14 23:46:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00136,CUST0251,ORD01022,2026-08-12 13:16:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00137,CUST0471,ORD01931,2026-09-28 09:27:00,The product quality was excellent.,Product Quality,Low,Positive,In Progress
+TKT00138,CUST0172,ORD00724,2026-08-28 02:32:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00139,CUST0468,ORD01910,2026-08-08 11:07:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00140,CUST0460,ORD01891,2026-09-08 18:02:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00141,CUST0013,ORD00064,2026-08-22 16:57:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00142,CUST0073,ORD00338,2026-08-15 23:18:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00143,CUST0118,ORD00524,2026-11-09 00:00:00,Thank you for your support.,Account,Low,Positive,Open
+TKT00144,CUST0500,ORD02043,2026-09-08 07:48:00,The item quality was poor.,Product Quality,Medium,Negative,Open
+TKT00145,CUST0424,ORD01753,2026-06-14 10:18:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00146,CUST0197,ORD00806,2026-10-28 04:20:00,The product I received was damaged.,Product Quality,High,Negative,In Progress
+TKT00147,CUST0372,ORD01515,2026-11-03 19:16:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00148,CUST0111,ORD00491,2026-11-03 11:08:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00149,CUST0404,ORD01657,2026-07-27 04:48:00,The item quality was poor.,Product Quality,Medium,Negative,In Progress
+TKT00150,CUST0387,ORD01571,2026-11-06 22:51:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00151,CUST0375,ORD01523,2026-06-04 13:56:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00152,CUST0011,ORD00053,2026-08-30 05:16:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00153,CUST0321,ORD01275,2026-09-05 03:25:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00154,CUST0165,ORD00698,2026-06-20 16:21:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00155,CUST0421,ORD01739,2026-07-09 04:32:00,I need help with my payment.,Payment,Medium,Neutral,Open
+TKT00156,CUST0065,ORD00302,2026-07-30 06:47:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00157,CUST0009,ORD00044,2026-11-09 00:00:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00158,CUST0357,ORD01463,2026-09-19 00:50:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00159,CUST0391,ORD01596,2026-07-21 03:09:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00160,CUST0015,ORD00079,2026-08-30 08:00:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00161,CUST0111,ORD00488,2026-05-21 18:21:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00162,CUST0307,ORD01234,2026-10-21 17:43:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00163,CUST0234,ORD00945,2026-05-24 20:17:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00164,CUST0150,ORD00637,2026-10-27 17:41:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00165,CUST0472,ORD01935,2026-10-24 03:39:00,My order arrived late.,Delivery,High,Negative,In Progress
+TKT00166,CUST0072,ORD00334,2026-08-17 17:25:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00167,CUST0344,ORD01409,2026-07-31 12:43:00,The product I received was damaged.,Product Quality,High,Negative,Open
+TKT00168,CUST0351,ORD01437,2026-11-01 19:36:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00169,CUST0120,ORD00535,2026-08-16 20:51:00,My order arrived late.,Delivery,High,Negative,Open
+TKT00170,CUST0297,ORD01201,2026-10-31 07:08:00,I cannot log into my account.,Account,Medium,Negative,Open
+TKT00171,CUST0199,ORD00819,2026-09-30 14:35:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00172,CUST0155,ORD00656,2026-11-08 01:10:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00173,CUST0045,ORD00209,2026-05-22 11:28:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00174,CUST0414,ORD01712,2026-06-07 12:43:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00175,CUST0012,ORD00060,2026-11-08 14:25:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00176,CUST0484,ORD01978,2026-10-23 16:15:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00177,CUST0465,ORD01904,2026-05-17 21:54:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00178,CUST0483,ORD01970,2026-09-19 16:08:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00179,CUST0035,ORD00174,2026-09-22 12:44:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00180,CUST0346,ORD01413,2026-08-01 21:33:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00181,CUST0479,ORD01958,2026-11-02 06:59:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00182,CUST0232,ORD00933,2026-06-01 08:40:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00183,CUST0252,ORD01028,2026-07-04 16:18:00,My payment was deducted twice.,Payment,High,Negative,Open
+TKT00184,CUST0151,ORD00642,2026-09-18 11:16:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00185,CUST0063,ORD00293,2026-11-08 22:24:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00186,CUST0128,ORD00567,2026-09-30 14:23:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00187,CUST0192,ORD00780,2026-08-27 18:45:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00188,CUST0013,ORD00065,2026-08-20 12:09:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00189,CUST0391,ORD01592,2026-07-14 00:30:00,I have not received my refund.,Refund,High,Negative,In Progress
+TKT00190,CUST0385,ORD01567,2026-11-02 23:44:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00191,CUST0016,ORD00087,2026-07-15 16:54:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00192,CUST0433,ORD01783,2026-10-31 23:22:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00193,CUST0421,ORD01738,2026-05-22 15:20:00,I have not received my refund.,Refund,High,Negative,In Progress
+TKT00194,CUST0379,ORD01541,2026-07-08 16:25:00,The item quality was poor.,Product Quality,Medium,Negative,In Progress
+TKT00195,CUST0135,ORD00593,2026-05-17 00:50:00,The product I received was damaged.,Product Quality,High,Negative,Open
+TKT00196,CUST0207,ORD00853,2026-09-21 02:05:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00197,CUST0092,ORD00406,2026-05-18 21:58:00,The item quality was poor.,Product Quality,Medium,Negative,Open
+TKT00198,CUST0121,ORD00539,2026-11-07 19:03:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00199,CUST0439,ORD01808,2026-07-18 22:00:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00200,CUST0464,ORD01901,2026-10-29 06:18:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00201,CUST0441,ORD01814,2026-11-08 19:06:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00202,CUST0101,ORD00440,2026-11-03 23:19:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00203,CUST0148,ORD00632,2026-10-03 00:29:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00204,CUST0094,ORD00409,2026-10-19 08:50:00,The product I received was damaged.,Product Quality,High,Negative,Open
+TKT00205,CUST0266,ORD01079,2026-11-03 19:49:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00206,CUST0263,ORD01071,2026-09-30 12:27:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00207,CUST0238,ORD00958,2026-11-06 06:35:00,I cannot log into my account.,Account,Medium,Negative,Open
+TKT00208,CUST0206,ORD00848,2026-08-20 01:35:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00209,CUST0137,ORD00603,2026-08-28 09:11:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00210,CUST0178,ORD00740,2026-09-20 09:54:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00211,CUST0101,ORD00445,2026-08-14 22:35:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00212,CUST0363,ORD01483,2026-06-28 03:57:00,Please check my refund status.,Refund,Medium,Neutral,In Progress
+TKT00213,CUST0102,ORD00450,2026-06-26 10:06:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00214,CUST0004,ORD00011,2026-09-08 22:31:00,Thank you for your support.,Account,Low,Positive,Open
+TKT00215,CUST0161,ORD00687,2026-05-31 20:17:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00216,CUST0436,ORD01794,2026-09-20 07:45:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00217,CUST0472,ORD01934,2026-09-20 23:36:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00218,CUST0148,ORD00634,2026-08-06 05:01:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00219,CUST0420,ORD01736,2026-10-30 13:16:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00220,CUST0035,ORD00175,2026-11-09 00:00:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00221,CUST0333,ORD01346,2026-10-29 14:18:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00222,CUST0057,ORD00263,2026-08-09 19:31:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00223,CUST0280,ORD01131,2026-08-23 04:02:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00224,CUST0272,ORD01104,2026-11-09 00:00:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00225,CUST0207,ORD00857,2026-11-09 00:00:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00226,CUST0243,ORD00989,2026-06-30 11:27:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00227,CUST0129,ORD00571,2026-07-22 11:41:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00228,CUST0034,ORD00165,2026-07-18 20:30:00,My payment was deducted twice.,Payment,High,Negative,Open
+TKT00229,CUST0204,ORD00836,2026-09-19 08:19:00,I cannot log into my account.,Account,Medium,Negative,Open
+TKT00230,CUST0091,ORD00403,2026-07-14 07:08:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00231,CUST0171,ORD00722,2026-05-24 02:00:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00232,CUST0176,ORD00731,2026-10-14 04:07:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00233,CUST0129,ORD00577,2026-11-09 00:00:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00234,CUST0076,ORD00351,2026-09-05 13:02:00,The item quality was poor.,Product Quality,Medium,Negative,Open
+TKT00235,CUST0451,ORD01867,2026-09-23 04:29:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00236,CUST0017,ORD00092,2026-10-02 01:55:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00237,CUST0495,ORD02024,2026-06-04 23:14:00,I need help with my payment.,Payment,Medium,Neutral,In Progress
+TKT00238,CUST0405,ORD01666,2026-11-09 00:00:00,Where is my order? It is delayed.,Delivery,High,Negative,In Progress
+TKT00239,CUST0096,ORD00422,2026-09-28 06:31:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00240,CUST0199,ORD00818,2026-08-11 13:50:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00241,CUST0225,ORD00905,2026-07-28 08:32:00,Where is my order? It is delayed.,Delivery,High,Negative,In Progress
+TKT00242,CUST0262,ORD01059,2026-08-04 08:29:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00243,CUST0247,ORD01001,2026-06-01 17:04:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00244,CUST0465,ORD01906,2026-10-05 04:27:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00245,CUST0455,ORD01875,2026-10-12 10:22:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00246,CUST0357,ORD01464,2026-08-31 10:19:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00247,CUST0490,ORD02000,2026-09-15 15:30:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00248,CUST0074,ORD00343,2026-06-23 02:58:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00249,CUST0058,ORD00266,2026-10-28 01:40:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00250,CUST0177,ORD00739,2026-08-02 13:33:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00251,CUST0077,ORD00357,2026-07-03 09:32:00,I have not received my refund.,Refund,High,Negative,In Progress
+TKT00252,CUST0365,ORD01495,2026-07-28 22:16:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00253,CUST0182,ORD00756,2026-10-13 14:02:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00254,CUST0062,ORD00279,2026-09-26 03:52:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00255,CUST0328,ORD01306,2026-11-08 14:53:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00256,CUST0075,ORD00345,2026-08-01 13:54:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00257,CUST0062,ORD00284,2026-09-21 01:12:00,My order arrived late.,Delivery,High,Negative,Open
+TKT00258,CUST0014,ORD00071,2026-11-09 00:00:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00259,CUST0321,ORD01275,2026-09-08 03:25:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00260,CUST0297,ORD01201,2026-10-28 07:08:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00261,CUST0416,ORD01714,2026-10-03 05:59:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00262,CUST0315,ORD01260,2026-10-04 11:46:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00263,CUST0081,ORD00377,2026-09-15 13:55:00,Payment failed but money was deducted.,Payment,High,Negative,Open
+TKT00264,CUST0255,ORD01042,2026-06-28 02:29:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00265,CUST0193,ORD00781,2026-11-07 12:31:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00266,CUST0207,ORD00854,2026-10-11 11:11:00,Thank you for your support.,Account,Low,Positive,Open
+TKT00267,CUST0363,ORD01483,2026-06-27 03:57:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00268,CUST0292,ORD01179,2026-11-04 05:37:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00269,CUST0281,ORD01134,2026-09-02 09:17:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00270,CUST0334,ORD01351,2026-08-15 12:14:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00271,CUST0330,ORD01325,2026-11-01 21:17:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00272,CUST0008,ORD00039,2026-06-16 09:38:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00273,CUST0224,ORD00903,2026-11-02 02:39:00,Where is my order? It is delayed.,Delivery,High,Negative,Open
+TKT00274,CUST0420,ORD01730,2026-09-13 00:25:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00275,CUST0041,ORD00201,2026-08-07 14:23:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00276,CUST0473,ORD01938,2026-06-22 08:54:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00277,CUST0028,ORD00146,2026-09-13 15:02:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00278,CUST0233,ORD00943,2026-08-11 14:59:00,Payment failed but money was deducted.,Payment,High,Negative,Open
+TKT00279,CUST0254,ORD01037,2026-10-08 21:24:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00280,CUST0289,ORD01156,2026-09-13 11:13:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00281,CUST0011,ORD00059,2026-07-14 10:51:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00282,CUST0275,ORD01110,2026-06-26 14:36:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00283,CUST0062,ORD00289,2026-07-26 12:16:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00284,CUST0412,ORD01701,2026-09-04 21:05:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00285,CUST0443,ORD01824,2026-07-13 19:27:00,I need help with my payment.,Payment,Medium,Neutral,In Progress
+TKT00286,CUST0251,ORD01024,2026-08-22 16:06:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00287,CUST0015,ORD00072,2026-05-26 22:18:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00288,CUST0447,ORD01843,2026-10-04 10:42:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00289,CUST0126,ORD00554,2026-09-02 01:27:00,I have not received my refund.,Refund,High,Negative,Open
+TKT00290,CUST0178,ORD00741,2026-10-06 02:10:00,My order arrived late.,Delivery,High,Negative,In Progress
+TKT00291,CUST0342,ORD01398,2026-10-13 08:12:00,The delivery experience was good.,Delivery,Low,Positive,Open
+TKT00292,CUST0426,ORD01758,2026-10-24 07:09:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00293,CUST0015,ORD00083,2026-07-02 07:22:00,Please check my refund status.,Refund,Medium,Neutral,Open
+TKT00294,CUST0495,ORD02021,2026-10-10 03:44:00,My payment was deducted twice.,Payment,High,Negative,Open
+TKT00295,CUST0443,ORD01825,2026-05-31 14:28:00,My order arrived late.,Delivery,High,Negative,Open
+TKT00296,CUST0045,ORD00210,2026-08-18 08:51:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00297,CUST0275,ORD01111,2026-09-22 14:53:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00298,CUST0382,ORD01553,2026-10-19 12:24:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00299,CUST0029,ORD00152,2026-07-31 20:02:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00300,CUST0115,ORD00509,2026-11-09 00:00:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00301,CUST0054,ORD00247,2026-07-25 16:20:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00302,CUST0469,ORD01914,2026-09-15 23:24:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00303,CUST0211,ORD00870,2026-10-04 07:13:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00304,CUST0062,ORD00285,2026-09-05 12:00:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00305,CUST0119,ORD00530,2026-09-29 11:02:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00306,CUST0325,ORD01289,2026-09-14 14:09:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00307,CUST0179,ORD00749,2026-09-28 22:17:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00308,CUST0308,ORD01238,2026-08-04 23:57:00,The item quality was poor.,Product Quality,Medium,Negative,In Progress
+TKT00309,CUST0172,ORD00723,2026-08-11 15:52:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00310,CUST0019,ORD00097,2026-10-13 16:42:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00311,CUST0026,ORD00139,2026-10-07 14:14:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00312,CUST0124,ORD00544,2026-09-18 10:46:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00313,CUST0242,ORD00979,2026-07-12 21:42:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00314,CUST0156,ORD00664,2026-09-24 10:13:00,My order arrived late.,Delivery,High,Negative,Open
+TKT00315,CUST0235,ORD00949,2026-05-24 23:41:00,The product I received was damaged.,Product Quality,High,Negative,Open
+TKT00316,CUST0142,ORD00615,2026-09-22 08:58:00,The product I received was damaged.,Product Quality,High,Negative,In Progress
+TKT00317,CUST0105,ORD00471,2026-09-07 12:25:00,My payment was deducted twice.,Payment,High,Negative,Open
+TKT00318,CUST0431,ORD01781,2026-10-18 05:24:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00319,CUST0356,ORD01458,2026-05-28 15:36:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00320,CUST0262,ORD01059,2026-08-04 08:29:00,Where is my order? It is delayed.,Delivery,High,Negative,Open
+TKT00321,CUST0241,ORD00973,2026-08-16 18:29:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00322,CUST0080,ORD00374,2026-06-11 20:22:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00323,CUST0103,ORD00453,2026-09-20 21:53:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00324,CUST0004,ORD00016,2026-10-01 02:08:00,Please check my refund status.,Refund,Medium,Neutral,In Progress
+TKT00325,CUST0235,ORD00947,2026-10-13 13:02:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00326,CUST0289,ORD01159,2026-10-13 02:26:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00327,CUST0299,ORD01205,2026-09-10 12:43:00,I need help with my payment.,Payment,Medium,Neutral,Open
+TKT00328,CUST0431,ORD01780,2026-09-26 14:28:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00329,CUST0496,ORD02026,2026-10-14 21:31:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00330,CUST0308,ORD01240,2026-10-04 11:08:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00331,CUST0100,ORD00436,2026-07-17 08:33:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00332,CUST0355,ORD01449,2026-08-22 15:11:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00333,CUST0358,ORD01471,2026-09-23 05:05:00,Please check my refund status.,Refund,Medium,Neutral,In Progress
+TKT00334,CUST0016,ORD00085,2026-09-27 14:10:00,The product I received was damaged.,Product Quality,High,Negative,Open
+TKT00335,CUST0054,ORD00247,2026-07-29 16:20:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00336,CUST0399,ORD01633,2026-10-31 23:56:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00337,CUST0342,ORD01393,2026-11-09 00:00:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00338,CUST0133,ORD00586,2026-08-20 06:59:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00339,CUST0470,ORD01922,2026-10-22 21:05:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00340,CUST0244,ORD00994,2026-07-12 18:35:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00341,CUST0084,ORD00384,2026-10-24 11:13:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00342,CUST0220,ORD00893,2026-09-21 04:51:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00343,CUST0228,ORD00926,2026-10-13 21:44:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00344,CUST0043,ORD00203,2026-07-22 12:35:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00345,CUST0419,ORD01728,2026-07-29 20:34:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00346,CUST0352,ORD01441,2026-10-31 20:31:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00347,CUST0470,ORD01921,2026-11-04 07:23:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00348,CUST0327,ORD01299,2026-06-14 07:48:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00349,CUST0396,ORD01620,2026-08-30 04:41:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00350,CUST0216,ORD00884,2026-09-10 15:19:00,The item quality was poor.,Product Quality,Medium,Negative,In Progress
+TKT00351,CUST0370,ORD01509,2026-07-19 18:43:00,Please check my refund status.,Refund,Medium,Neutral,In Progress
+TKT00352,CUST0086,ORD00389,2026-07-27 06:37:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00353,CUST0476,ORD01947,2026-10-16 15:49:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00354,CUST0034,ORD00165,2026-07-23 20:30:00,Thank you for your support.,Account,Low,Positive,Open
+TKT00355,CUST0296,ORD01197,2026-06-27 16:38:00,Thank you for your support.,Account,Low,Positive,Open
+TKT00356,CUST0321,ORD01274,2026-10-11 11:22:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00357,CUST0049,ORD00229,2026-08-12 06:16:00,The product I received was damaged.,Product Quality,High,Negative,Open
+TKT00358,CUST0276,ORD01116,2026-10-06 09:24:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00359,CUST0255,ORD01041,2026-07-21 21:17:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00360,CUST0138,ORD00607,2026-11-09 00:00:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00361,CUST0445,ORD01829,2026-09-25 17:04:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00362,CUST0412,ORD01697,2026-06-07 05:04:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00363,CUST0185,ORD00765,2026-06-01 08:23:00,The product quality was excellent.,Product Quality,Low,Positive,In Progress
+TKT00364,CUST0054,ORD00246,2026-10-03 20:00:00,Please help me update my account details.,Account,Low,Neutral,Open
+TKT00365,CUST0240,ORD00963,2026-10-25 18:30:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00366,CUST0372,ORD01511,2026-10-18 01:30:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00367,CUST0196,ORD00801,2026-11-07 03:40:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00368,CUST0441,ORD01818,2026-09-29 09:10:00,I have not received my refund.,Refund,High,Negative,Open
+TKT00369,CUST0403,ORD01652,2026-08-21 04:35:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00370,CUST0077,ORD00359,2026-10-20 03:54:00,The item quality was poor.,Product Quality,Medium,Negative,In Progress
+TKT00371,CUST0332,ORD01338,2026-10-29 17:30:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00372,CUST0445,ORD01829,2026-09-26 17:04:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00373,CUST0493,ORD02011,2026-11-09 00:00:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00374,CUST0227,ORD00912,2026-10-06 23:09:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00375,CUST0106,ORD00475,2026-10-05 15:17:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00376,CUST0340,ORD01381,2026-09-07 06:19:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00377,CUST0005,ORD00021,2026-10-10 18:14:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00378,CUST0191,ORD00778,2026-10-18 19:39:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00379,CUST0363,ORD01483,2026-06-26 03:57:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00380,CUST0332,ORD01335,2026-11-07 05:48:00,I have not received my refund.,Refund,High,Negative,Open
+TKT00381,CUST0272,ORD01101,2026-09-10 00:47:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00382,CUST0302,ORD01214,2026-09-23 11:32:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00383,CUST0300,ORD01210,2026-10-26 01:00:00,My order arrived late.,Delivery,High,Negative,Open
+TKT00384,CUST0201,ORD00831,2026-10-13 13:40:00,The product I received was damaged.,Product Quality,High,Negative,In Progress
+TKT00385,CUST0476,ORD01945,2026-10-17 09:25:00,Where is my order? It is delayed.,Delivery,High,Negative,Open
+TKT00386,CUST0095,ORD00416,2026-08-13 14:00:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00387,CUST0137,ORD00600,2026-06-24 17:06:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00388,CUST0137,ORD00604,2026-11-09 00:00:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00389,CUST0263,ORD01066,2026-10-07 20:34:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00390,CUST0441,ORD01814,2026-11-09 00:00:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00391,CUST0013,ORD00066,2026-08-17 01:00:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00392,CUST0105,ORD00464,2026-07-20 21:01:00,I need help with my payment.,Payment,Medium,Neutral,Open
+TKT00393,CUST0286,ORD01149,2026-10-10 12:32:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00394,CUST0398,ORD01631,2026-08-09 22:53:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00395,CUST0129,ORD00577,2026-11-09 00:00:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00396,CUST0338,ORD01369,2026-08-24 15:01:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00397,CUST0450,ORD01854,2026-11-08 05:44:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00398,CUST0436,ORD01798,2026-10-25 23:17:00,Please check my refund status.,Refund,Medium,Neutral,Open
+TKT00399,CUST0133,ORD00588,2026-06-03 22:21:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00400,CUST0159,ORD00678,2026-07-06 06:08:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00401,CUST0391,ORD01592,2026-07-16 00:30:00,I have not received my refund.,Refund,High,Negative,Open
+TKT00402,CUST0215,ORD00878,2026-09-23 05:45:00,Thank you for your support.,Account,Low,Positive,Open
+TKT00403,CUST0474,ORD01941,2026-11-03 10:56:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00404,CUST0484,ORD01978,2026-10-24 16:15:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00405,CUST0488,ORD01993,2026-10-14 02:06:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00406,CUST0454,ORD01871,2026-10-17 12:30:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00407,CUST0111,ORD00490,2026-07-25 18:14:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00408,CUST0254,ORD01035,2026-06-12 08:14:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00409,CUST0034,ORD00166,2026-09-12 02:39:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00410,CUST0494,ORD02018,2026-10-27 09:26:00,Please help me update my account details.,Account,Low,Neutral,Open
+TKT00411,CUST0263,ORD01064,2026-09-23 21:16:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00412,CUST0184,ORD00760,2026-10-14 07:15:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00413,CUST0104,ORD00463,2026-09-08 03:25:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00414,CUST0011,ORD00059,2026-07-15 10:51:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00415,CUST0057,ORD00261,2026-10-12 22:11:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00416,CUST0196,ORD00801,2026-11-06 03:40:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00417,CUST0412,ORD01700,2026-07-03 22:46:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00418,CUST0333,ORD01347,2026-06-19 16:43:00,I cannot log into my account.,Account,Medium,Negative,Open
+TKT00419,CUST0218,ORD00889,2026-05-18 20:23:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00420,CUST0034,ORD00167,2026-10-01 12:40:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00421,CUST0463,ORD01898,2026-10-25 01:50:00,Payment failed but money was deducted.,Payment,High,Negative,Open
+TKT00422,CUST0062,ORD00281,2026-09-21 02:33:00,Please help me update my account details.,Account,Low,Neutral,Open
+TKT00423,CUST0329,ORD01319,2026-07-03 17:33:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00424,CUST0247,ORD01000,2026-06-09 07:30:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00425,CUST0484,ORD01981,2026-11-02 14:33:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00426,CUST0218,ORD00887,2026-05-25 08:06:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00427,CUST0392,ORD01599,2026-09-27 15:59:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00428,CUST0412,ORD01695,2026-10-13 08:10:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00429,CUST0068,ORD00319,2026-08-09 09:00:00,The item quality was poor.,Product Quality,Medium,Negative,Open
+TKT00430,CUST0194,ORD00792,2026-08-02 06:24:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00431,CUST0306,ORD01229,2026-07-06 08:25:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00432,CUST0023,ORD00116,2026-08-15 00:00:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00433,CUST0054,ORD00254,2026-07-03 03:29:00,The item quality was poor.,Product Quality,Medium,Negative,In Progress
+TKT00434,CUST0023,ORD00115,2026-05-21 22:59:00,The delivery experience was good.,Delivery,Low,Positive,Open
+TKT00435,CUST0403,ORD01651,2026-10-26 18:07:00,I cannot log into my account.,Account,Medium,Negative,Open
+TKT00436,CUST0398,ORD01627,2026-09-14 22:27:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00437,CUST0109,ORD00481,2026-05-23 02:44:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00438,CUST0251,ORD01018,2026-10-09 21:06:00,Payment failed but money was deducted.,Payment,High,Negative,Open
+TKT00439,CUST0450,ORD01854,2026-11-03 05:44:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00440,CUST0034,ORD00166,2026-09-07 02:39:00,The delivery experience was good.,Delivery,Low,Positive,Open
+TKT00441,CUST0035,ORD00175,2026-11-05 15:47:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00442,CUST0286,ORD01147,2026-10-02 12:00:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00443,CUST0363,ORD01484,2026-08-09 17:57:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00444,CUST0025,ORD00124,2026-07-02 03:14:00,I have not received my refund.,Refund,High,Negative,Open
+TKT00445,CUST0138,ORD00606,2026-10-07 08:26:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00446,CUST0471,ORD01930,2026-09-30 20:25:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00447,CUST0268,ORD01093,2026-07-07 04:47:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00448,CUST0263,ORD01067,2026-07-13 02:07:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00449,CUST0136,ORD00599,2026-10-07 09:33:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00450,CUST0213,ORD00875,2026-08-02 21:40:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00451,CUST0062,ORD00283,2026-08-05 07:04:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00452,CUST0372,ORD01516,2026-08-20 15:37:00,My order arrived late.,Delivery,High,Negative,In Progress
+TKT00453,CUST0077,ORD00360,2026-08-12 19:34:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00454,CUST0367,ORD01501,2026-08-22 08:31:00,I have not received my refund.,Refund,High,Negative,In Progress
+TKT00455,CUST0445,ORD01831,2026-10-18 09:31:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00456,CUST0129,ORD00573,2026-07-20 15:47:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00457,CUST0431,ORD01781,2026-10-14 05:24:00,I have not received my refund.,Refund,High,Negative,In Progress
+TKT00458,CUST0215,ORD00881,2026-11-09 00:00:00,Where is my order? It is delayed.,Delivery,High,Negative,Open
+TKT00459,CUST0195,ORD00797,2026-10-26 18:27:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00460,CUST0077,ORD00359,2026-10-21 03:54:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00461,CUST0187,ORD00771,2026-09-29 19:15:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00462,CUST0222,ORD00901,2026-05-18 13:51:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00463,CUST0428,ORD01764,2026-05-29 21:24:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00464,CUST0328,ORD01310,2026-11-02 07:12:00,Please check my refund status.,Refund,Medium,Neutral,Open
+TKT00465,CUST0479,ORD01956,2026-10-04 01:26:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00466,CUST0380,ORD01543,2026-08-23 01:44:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00467,CUST0327,ORD01301,2026-07-07 13:54:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00468,CUST0165,ORD00699,2026-09-30 16:52:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00469,CUST0186,ORD00770,2026-10-06 11:15:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00470,CUST0343,ORD01405,2026-10-12 07:36:00,I cannot log into my account.,Account,Medium,Negative,Open
+TKT00471,CUST0128,ORD00565,2026-09-27 21:59:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00472,CUST0159,ORD00678,2026-07-03 06:08:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00473,CUST0342,ORD01400,2026-10-26 20:02:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00474,CUST0005,ORD00024,2026-11-07 03:45:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00475,CUST0498,ORD02034,2026-08-21 09:41:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00476,CUST0231,ORD00932,2026-08-27 06:22:00,I cannot log into my account.,Account,Medium,Negative,Open
+TKT00477,CUST0146,ORD00624,2026-11-04 11:37:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00478,CUST0069,ORD00322,2026-08-02 10:58:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00479,CUST0474,ORD01941,2026-10-30 10:56:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00480,CUST0446,ORD01832,2026-10-09 18:07:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00481,CUST0044,ORD00205,2026-07-05 16:00:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00482,CUST0198,ORD00816,2026-07-17 16:33:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00483,CUST0437,ORD01800,2026-08-02 00:29:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00484,CUST0338,ORD01372,2026-09-27 03:48:00,I cannot log into my account.,Account,Medium,Negative,Open
+TKT00485,CUST0498,ORD02035,2026-07-21 10:01:00,The item quality was poor.,Product Quality,Medium,Negative,Open
+TKT00486,CUST0125,ORD00546,2026-06-10 09:08:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00487,CUST0244,ORD00993,2026-08-25 05:58:00,Please help me update my account details.,Account,Low,Neutral,In Progress
+TKT00488,CUST0016,ORD00084,2026-05-17 02:13:00,The delivery experience was good.,Delivery,Low,Positive,Open
+TKT00489,CUST0306,ORD01229,2026-07-06 08:25:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00490,CUST0045,ORD00211,2026-08-02 14:52:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00491,CUST0334,ORD01352,2026-06-30 20:33:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00492,CUST0321,ORD01271,2026-10-07 03:54:00,I have not received my refund.,Refund,High,Negative,Open
+TKT00493,CUST0179,ORD00747,2026-11-04 00:26:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00494,CUST0394,ORD01607,2026-07-11 07:02:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00495,CUST0331,ORD01327,2026-07-25 13:11:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00496,CUST0484,ORD01975,2026-09-04 05:52:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00497,CUST0042,ORD00202,2026-10-07 16:59:00,My order arrived late.,Delivery,High,Negative,Open
+TKT00498,CUST0163,ORD00691,2026-09-18 03:24:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00499,CUST0119,ORD00527,2026-07-22 07:06:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00500,CUST0364,ORD01491,2026-08-22 07:39:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00501,CUST0019,ORD00097,2026-10-11 16:42:00,Please help me update my account details.,Account,Low,Neutral,Open
+TKT00502,CUST0184,ORD00760,2026-10-18 07:15:00,Where is my order? It is delayed.,Delivery,High,Negative,Open
+TKT00503,CUST0478,ORD01955,2026-06-28 13:17:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00504,CUST0072,ORD00335,2026-10-17 09:31:00,The product quality was excellent.,Product Quality,Low,Positive,Open
+TKT00505,CUST0055,ORD00256,2026-10-04 16:22:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00506,CUST0072,ORD00335,2026-10-14 09:31:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00507,CUST0193,ORD00781,2026-11-07 12:31:00,Payment failed but money was deducted.,Payment,High,Negative,Open
+TKT00508,CUST0331,ORD01326,2026-08-01 10:18:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00509,CUST0010,ORD00049,2026-06-22 13:48:00,My payment was deducted twice.,Payment,High,Negative,Open
+TKT00510,CUST0151,ORD00640,2026-08-06 10:11:00,Please help me update my account details.,Account,Low,Neutral,Resolved
+TKT00511,CUST0047,ORD00221,2026-11-03 14:37:00,Where is my order? It is delayed.,Delivery,High,Negative,Open
+TKT00512,CUST0047,ORD00226,2026-11-03 12:16:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00513,CUST0401,ORD01640,2026-06-01 13:01:00,My order arrived late.,Delivery,High,Negative,In Progress
+TKT00514,CUST0352,ORD01443,2026-08-07 07:43:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00515,CUST0388,ORD01576,2026-09-06 08:09:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00516,CUST0074,ORD00343,2026-06-19 02:58:00,I have not received my refund.,Refund,High,Negative,In Progress
+TKT00517,CUST0308,ORD01240,2026-10-05 11:08:00,Please check my refund status.,Refund,Medium,Neutral,Open
+TKT00518,CUST0163,ORD00691,2026-09-18 03:24:00,My order arrived late.,Delivery,High,Negative,In Progress
+TKT00519,CUST0021,ORD00110,2026-10-14 12:07:00,The delivery experience was good.,Delivery,Low,Positive,Open
+TKT00520,CUST0176,ORD00732,2026-07-10 07:21:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00521,CUST0011,ORD00059,2026-07-16 10:51:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00522,CUST0410,ORD01691,2026-09-28 13:10:00,I have not received my refund.,Refund,High,Negative,Open
+TKT00523,CUST0019,ORD00099,2026-09-28 08:03:00,The item quality was poor.,Product Quality,Medium,Negative,In Progress
+TKT00524,CUST0062,ORD00281,2026-09-21 02:33:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00525,CUST0303,ORD01221,2026-06-06 13:05:00,Thank you for your support.,Account,Low,Positive,Open
+TKT00526,CUST0484,ORD01981,2026-11-03 14:33:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00527,CUST0240,ORD00965,2026-10-25 18:46:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00528,CUST0456,ORD01880,2026-10-16 00:18:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00529,CUST0127,ORD00562,2026-08-04 21:22:00,Payment failed but money was deducted.,Payment,High,Negative,Open
+TKT00530,CUST0057,ORD00263,2026-08-09 19:31:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00531,CUST0447,ORD01840,2026-07-21 19:02:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00532,CUST0005,ORD00017,2026-10-01 09:56:00,Thank you for your support.,Account,Low,Positive,In Progress
+TKT00533,CUST0372,ORD01512,2026-09-12 19:26:00,The item quality was poor.,Product Quality,Medium,Negative,Open
+TKT00534,CUST0224,ORD00903,2026-10-29 02:39:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00535,CUST0428,ORD01765,2026-06-23 22:40:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00536,CUST0332,ORD01338,2026-10-25 17:30:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00537,CUST0036,ORD00184,2026-05-26 01:41:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00538,CUST0373,ORD01517,2026-10-11 08:00:00,I need help with my payment.,Payment,Medium,Neutral,In Progress
+TKT00539,CUST0115,ORD00507,2026-09-12 23:22:00,Payment failed but money was deducted.,Payment,High,Negative,Open
+TKT00540,CUST0292,ORD01177,2026-06-18 23:21:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00541,CUST0276,ORD01114,2026-07-30 04:12:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00542,CUST0025,ORD00126,2026-10-14 21:18:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00543,CUST0483,ORD01969,2026-08-24 16:28:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00544,CUST0441,ORD01819,2026-08-19 00:08:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00545,CUST0318,ORD01267,2026-05-19 07:56:00,I need help with my payment.,Payment,Medium,Neutral,Open
+TKT00546,CUST0048,ORD00228,2026-10-13 01:05:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00547,CUST0105,ORD00468,2026-09-10 08:08:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00548,CUST0333,ORD01347,2026-06-18 16:43:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00549,CUST0402,ORD01645,2026-10-27 14:52:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00550,CUST0325,ORD01292,2026-10-11 01:57:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00551,CUST0151,ORD00642,2026-09-18 11:16:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00552,CUST0056,ORD00260,2026-08-10 17:06:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00553,CUST0015,ORD00082,2026-10-20 11:42:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00554,CUST0321,ORD01272,2026-09-19 02:31:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00555,CUST0024,ORD00121,2026-10-13 08:28:00,The item quality was poor.,Product Quality,Medium,Negative,In Progress
+TKT00556,CUST0110,ORD00483,2026-10-20 10:19:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00557,CUST0313,ORD01248,2026-08-21 12:48:00,My order arrived late.,Delivery,High,Negative,Open
+TKT00558,CUST0449,ORD01846,2026-05-16 15:55:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00559,CUST0422,ORD01745,2026-06-26 05:34:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00560,CUST0177,ORD00736,2026-10-22 21:07:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00561,CUST0295,ORD01195,2026-10-31 12:57:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00562,CUST0388,ORD01577,2026-08-22 16:41:00,Thank you for processing my refund.,Refund,Low,Positive,In Progress
+TKT00563,CUST0072,ORD00335,2026-10-16 09:31:00,Payment failed but money was deducted.,Payment,High,Negative,Resolved
+TKT00564,CUST0012,ORD00062,2026-08-03 02:28:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00565,CUST0253,ORD01033,2026-09-21 23:15:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00566,CUST0176,ORD00730,2026-06-23 01:13:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00567,CUST0177,ORD00738,2026-06-28 20:13:00,The delivery experience was good.,Delivery,Low,Positive,Resolved
+TKT00568,CUST0293,ORD01184,2026-08-07 09:41:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00569,CUST0081,ORD00378,2026-06-15 16:50:00,The product I received was damaged.,Product Quality,High,Negative,In Progress
+TKT00570,CUST0341,ORD01388,2026-09-02 09:08:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00571,CUST0394,ORD01607,2026-07-14 07:02:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00572,CUST0111,ORD00492,2026-06-22 04:10:00,Where is my order? It is delayed.,Delivery,High,Negative,Resolved
+TKT00573,CUST0470,ORD01919,2026-09-29 10:02:00,Where is my order? It is delayed.,Delivery,High,Negative,In Progress
+TKT00574,CUST0387,ORD01571,2026-11-09 00:00:00,I cannot log into my account.,Account,Medium,Negative,Open
+TKT00575,CUST0005,ORD00023,2026-11-07 21:54:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00576,CUST0483,ORD01968,2026-09-25 09:50:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00577,CUST0072,ORD00333,2026-08-08 04:29:00,The product quality was excellent.,Product Quality,Low,Positive,Resolved
+TKT00578,CUST0478,ORD01953,2026-06-30 12:06:00,My payment was deducted twice.,Payment,High,Negative,Resolved
+TKT00579,CUST0498,ORD02038,2026-08-06 23:38:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00580,CUST0144,ORD00620,2026-06-10 22:22:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00581,CUST0197,ORD00809,2026-08-02 22:12:00,I cannot log into my account.,Account,Medium,Negative,In Progress
+TKT00582,CUST0378,ORD01538,2026-05-18 10:24:00,I need help with my payment.,Payment,Medium,Neutral,Open
+TKT00583,CUST0129,ORD00577,2026-11-09 00:00:00,My order arrived late.,Delivery,High,Negative,Resolved
+TKT00584,CUST0015,ORD00072,2026-05-26 22:18:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00585,CUST0034,ORD00167,2026-10-04 12:40:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00586,CUST0451,ORD01861,2026-09-28 23:40:00,I cannot log into my account.,Account,Medium,Negative,Resolved
+TKT00587,CUST0005,ORD00022,2026-10-17 06:54:00,The item quality was poor.,Product Quality,Medium,Negative,Resolved
+TKT00588,CUST0249,ORD01015,2026-10-14 12:52:00,Payment failed but money was deducted.,Payment,High,Negative,In Progress
+TKT00589,CUST0328,ORD01309,2026-10-21 02:31:00,Thank you for processing my refund.,Refund,Low,Positive,Open
+TKT00590,CUST0428,ORD01765,2026-06-18 22:40:00,The product I received was damaged.,Product Quality,High,Negative,Resolved
+TKT00591,CUST0128,ORD00566,2026-10-03 00:12:00,My payment was deducted twice.,Payment,High,Negative,In Progress
+TKT00592,CUST0463,ORD01898,2026-10-25 01:50:00,Thank you for processing my refund.,Refund,Low,Positive,Resolved
+TKT00593,CUST0287,ORD01150,2026-10-06 07:29:00,The delivery experience was good.,Delivery,Low,Positive,In Progress
+TKT00594,CUST0111,ORD00489,2026-08-28 13:39:00,Please check my refund status.,Refund,Medium,Neutral,Resolved
+TKT00595,CUST0484,ORD01976,2026-10-02 17:26:00,My order arrived late.,Delivery,High,Negative,Open
+TKT00596,CUST0441,ORD01819,2026-08-19 00:08:00,I have not received my refund.,Refund,High,Negative,Resolved
+TKT00597,CUST0494,ORD02014,2026-08-22 20:27:00,I need help with my payment.,Payment,Medium,Neutral,Resolved
+TKT00598,CUST0096,ORD00421,2026-10-25 17:19:00,Thank you for your support.,Account,Low,Positive,Resolved
+TKT00599,CUST0019,ORD00098,2026-11-04 05:05:00,Thank you for your support.,Account,Low,Positive,Open
+TKT00600,CUST0135,ORD00593,2026-05-17 00:50:00,The product quality was excellent.,Product Quality,Low,Positive,In Progress
